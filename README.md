@@ -1,4 +1,4 @@
-# Data-Handing
+# Data-Handling
 <h1>Description</h1>
 In this activity, I will assess the outcomes of a data risk evaluation. My task is to ascertain whether efficient processes for managing data are being put into practice to safeguard the confidentiality of information.
 
